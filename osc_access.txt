@@ -1,0 +1,8 @@
+	Accessing the Ohio supercomputer (OSC)server at OSU:
+	
+	My username is 'osu1765' 
+	Access the OSC by inputting credentials:
+	
+	ssh osu1765@oakley.osc.edu
+	
+	enter password when prompted
